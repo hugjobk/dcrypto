@@ -1,0 +1,1 @@
+This encyption algorithm uses two parts to encrypt confidential information: a secret key stored securely on the server and a password remembered by the user. Both the key and password are required to unlock the encrypted data, ensuring that neither the server nor the user alone can access it.
